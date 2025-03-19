@@ -4,3 +4,4 @@ for i in range(1,10):
 #(1,3)取1,2
       print(f"{j}×{i}={i*j}",end="\t")
    print()
+print('hello world')
